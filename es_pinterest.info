@@ -1,0 +1,11 @@
+name = Pinterest Widget for Easy Social module
+description = Simple custom module that adds pinterest widget to Easy Social module.
+package = Other
+core = 7.x
+configure = admin/config/content/easysocial
+tags[] = social
+tags[] = share
+dependencies[] = easy_social
+core = "7.x"
+project = "es_pinterest"
+
