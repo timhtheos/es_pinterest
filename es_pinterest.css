@@ -1,0 +1,17 @@
+/*
+ * CSS Style
+ * Pinterest widget for Easy Social module
+ */
+
+.easy_social-widget-pinterest .es_pinterest_wrapper {
+  margin-top: 38px;
+}
+
+.easy_social-widget-pinterest .es_pinterest_wrapper > a {
+  background-position: 0 0;
+  background-size: 100% 72px !important;
+}
+
+.easy_social-widget-pinterest .es_pinterest_wrapper > a:hover {
+  background-position: 0 48px;
+}
